@@ -33,17 +33,13 @@ export default function HomePage() {
             }
             setFeaturedTOM(response.data)
         })
-        console.log(featuredSolaris)
-        console.log(featuredTOM)
         let slidecount = 0
         setInterval(function () {
             if (slidecount < 2) {
-                console.log('what')
                 slidecount += 1
                 setImage(slidecount)
             }
             else {
-                console.log('ficl')
                 slidecount = 1
                 setImage(slidecount)
             }
@@ -157,7 +153,7 @@ export default function HomePage() {
                                     setFeatureHover(product.name)
                                     let count = 0;
                                     setCurrentInterval(setInterval(function () {
-                                        console.log(count)
+
                                         if (count < product.images.length - 1) {
                                             setHoverCounter(count + 1)
                                             count += 1
@@ -194,7 +190,7 @@ export default function HomePage() {
                                     setFeatureHover(product.name)
                                     let count = 0;
                                     setCurrentInterval(setInterval(function () {
-                                        console.log(count)
+
                                         if (count < product.images.length - 1) {
                                             setHoverCounter(count + 1)
                                             count += 1

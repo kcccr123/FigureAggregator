@@ -20,7 +20,6 @@ export default function SearchResults() {
                 searchParem: p
             }
         }).then((response) => {
-            console.log(response.data[0].count.toString())
             setSolarisNums(response.data[0].count.toString())
         })
         Axios.get('https://figurecenter.herokuapp.com/numInStore', {
@@ -29,7 +28,6 @@ export default function SearchResults() {
                 searchParem: p
             }
         }).then((response) => {
-            console.log(response.data[0].count.toString())
             setTOMNums(response.data[0].count.toString())
         })
     }
@@ -394,7 +392,6 @@ export default function SearchResults() {
         }
     }
     function handleStoreFitler(name) {
-        console.log(searchParems.get('filters'))
         switch (name) {
             case 'SolarisJapanCheck':
                 if (searchParems.get('filters').charAt(0) === '0') {

@@ -9,7 +9,6 @@ import './navbar.css'
 export default function Navbar() {
     async function UpdateDB() {
         Axios.post('https://figurecenter.herokuapp.com/updateDB').then(() => {
-            console.log('complete request')
         })
     }
 
