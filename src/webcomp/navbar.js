@@ -25,7 +25,7 @@ export default function Navbar() {
                 <SearchBar />
             </div>
             <div className="navbarElement">
-                <div className="navbarLink">
+                <div className="navbarLinkCata">
                     <Browse />
                 </div>
             </div>

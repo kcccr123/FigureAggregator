@@ -135,13 +135,11 @@ export default function HomePage() {
         <>
             <div className="titleCard">
                 <div className="homeFiller">
-                    <button onClick={() => prevImage(currentImage)} >Prev</button>
                 </div>
                 <div className="titleCardBox">
                     {slideShow()}
                 </div>
                 <div className="homeFiller">
-                    <button onClick={() => nextImage(currentImage)}>Next</button>
                 </div>
             </div>
             <div className="headerAlignment">

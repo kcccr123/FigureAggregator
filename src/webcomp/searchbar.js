@@ -1,3 +1,4 @@
+import React from 'react';
 import './navbar.css'
 import SearchIcon from "@material-ui/icons/Search"
 import { createSearchParams, useNavigate } from "react-router-dom";
