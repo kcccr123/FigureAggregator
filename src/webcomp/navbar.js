@@ -25,7 +25,7 @@ export default function Navbar() {
             </div>
             <div className="navbarElement">
                 <div className="navbarLinkCata">
-                    <button onClick={() => UpdateDB()} />
+                    <Browse />
                 </div>
             </div>
 
