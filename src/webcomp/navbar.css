@@ -9,7 +9,7 @@ body {
 
 .navbarContainer {
     width: 100vw;
-    height: 125px;
+    height: 100px;
     background-color: rgb(243, 116, 137);
     display: flex;
     align-items: center;
