@@ -4,5 +4,5 @@ Scrapes product data from different collectable websites and saves them in datab
 
 Website includes basic search functions and filters for ease of browsing.
 
-Website Link: https://figure-center.netlify.app/
+Website Demo: https://figure-center.netlify.app/
 
