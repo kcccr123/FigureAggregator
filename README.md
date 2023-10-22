@@ -6,3 +6,5 @@ Website includes basic search functions and filters for ease of browsing.
 
 Website Demo: https://figure-center.netlify.app/
 
+Server Logic: https://github.com/kcccr123/figureCenterServerLogic
+
