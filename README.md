@@ -1,6 +1,6 @@
 Personal learning project for full stack development
 
-Scrapes product data from different collectable websites and saves them in mySQL database. Scraping is done automatically in set intervals serverside using Puppeteer.
+Scrapes product data from different websites and saves them in mySQL database. Scraping is done automatically in set intervals serverside using Puppeteer.
 
 Website includes basic search functions and filters for ease of browsing.
 
