@@ -6,35 +6,11 @@
   </a>
 -->
 
-<h3 align="center">UE Flight Tracker</h3>
+<h3 align="center">Figure Aggregator</h3>
 
   <p align="center">
-    An app for simulating positions of aircraft across the globe that are currently in flight
+    Shopify style online store for toy models.
     <br />
-
-
-
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
-
 
 
 <!-- ABOUT THE PROJECT -->
@@ -63,26 +39,6 @@ Website includes basic search functions and filters for ease of browsing.
 ## Getting Started
 
 To view the site, travel to: https://figure-center.netlify.app/
-
-### Prerequisites
-
-You will need to install these python dependencies
-* pip
-  ```sh
-  pip install FlightRadarAPI
-  ```
-  ```sh
-  pip install pandas
-  ```
-  ```sh
-  pip install sqlalchemy
-  ```
-  ```sh
-  pip install sqlite3
-  ```
-  
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 <!-- USAGE EXAMPLES -->
 ## Usage
