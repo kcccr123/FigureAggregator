@@ -15,12 +15,12 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Personal learning project for full stack development
+Personal learning project for Full-stack development.
 
-Scrapes product data from different websites and saves them in a MySQL database that is hosted in the cloud via Heroku. 
-Data is then fetched from database to be displayed to users on website.
+Utilizing Puppeteer, the system autonomously scrapes product data from various online stores at scheduled intervals. 
+This information is then stored in a MySQL database hosted on the cloud via Heroku. 
+Subsequently, the website fetches relevant data from the database to display to user.
 
-Scraping is done automatically in set intervals serverside using Puppeteer.
 Website includes basic search functions and filters for ease of browsing.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -41,27 +41,9 @@ Website includes basic search functions and filters for ease of browsing.
 
 To view the site, travel to: https://figure-center.netlify.app/
 
-<!-- USAGE EXAMPLES -->
-## Usage
-Press F to interact with the Menu. WASD, C and SPACEBAR to move the camera.
-There are two ways to interact with the program. You can enter in the long/lat coords, or choose from a database that is updated on application launch using an Airlines ICAO code.
-
-![gif1](./images/Animation.gif)
-![gif2](./images/Animation2.gif)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 <!-- CONTACT -->
 ## Contact
 Feel free to contact me at:
 @Kevin Chen - kevinz.chen@mail.utoronto.ca
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-
-
-
