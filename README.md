@@ -54,9 +54,8 @@ There are two ways to interact with the program. You can enter in the long/lat c
 
 <!-- CONTACT -->
 ## Contact
-Feel free to contact us at:
-
-@Kevin Chen - kevinz.chen@mail.utoronto.ca\
+Feel free to contact me at:
+@Kevin Chen - kevinz.chen@mail.utoronto.ca
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
