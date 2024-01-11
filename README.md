@@ -18,8 +18,8 @@
 Personal learning project for Full-stack development.
 
 Utilizing Puppeteer, the system autonomously scrapes product data from various online stores at scheduled intervals. 
-This information is then stored in a MySQL database hosted on the cloud via Heroku. 
-Subsequently, the website fetches relevant data from the database to display to user.
+This information is then stored in a MySQL database hosted on the cloud via Heroku.
+Subsequently, the website fetches relevant data from the database to display to the user.
 
 Website includes basic search functions and filters for ease of browsing.
 
