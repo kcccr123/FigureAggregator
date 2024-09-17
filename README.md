@@ -21,8 +21,6 @@ Using Puppeteer, product data from various online stores is autonomously scraped
 
 Website includes basic search functions and filters for ease of browsing. 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ### Built With
 
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge)
@@ -31,8 +29,6 @@ Website includes basic search functions and filters for ease of browsing.
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
  ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -43,5 +39,3 @@ To view the site, travel to: https://figure-center.netlify.app/
 ## Contact
 Feel free to contact me at:
 @Kevin Chen - kevinz.chen@mail.utoronto.ca
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
