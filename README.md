@@ -9,7 +9,7 @@
 <h3 align="center">Figure Aggregator</h3>
 
   <p align="center">
-    Shopify style online store for toy models.
+   A Shopify-style online store for toys and models with automated data aggregation.
     <br />
 
 
@@ -17,9 +17,11 @@
 ## About The Project
 Personal learning project for Full-stack development.
 
-Using Puppeteer, product data from various online stores is autonomously scraped at scheduled intervals in a cloud-based environment hosted on Heroku. The data is stored in a MySQL database on the same platform, allowing the website to dynamically retrieve and display relevant information to users.
+Using Puppeteer, product data from various online stores is autonomously scraped at scheduled intervals in a cloud-based environment hosted on Heroku.
 
-Website includes basic search functions and filters for ease of browsing. 
+Express.js is employed to build the server-side framework, handling API requests, user sessions, and dynamic content delivery. The scraped data is stored in a MySQL database on Heroku, allowing the website to retrieve and display updated product information.
+
+The website features basic search functions and filters, enhancing user experience and making it easy for visitors to browse and find products.
 
 ### Built With
 
@@ -29,6 +31,11 @@ Website includes basic search functions and filters for ease of browsing.
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
  ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
  ![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=)
+
+### Backend
+
+The code for web scraping and server operations is located in a separate repository, linked below.
+[Backend Repository](https://github.com/kcccr123/figure-aggregator-backend)
 
 <!-- GETTING STARTED -->
 ## Getting Started
